@@ -28,3 +28,5 @@ The system respects user privacy by asking for consent and clearly explaining wh
 
 In summary, the Chrome Extension for Time Tracking and Productivity Analytics is a powerful yet user-friendly tool that promotes better digital habits. By combining real-time browser activity tracking, intelligent website categorization, and a backend for data storage and reporting, it empowers users to take control of their time online. This project is ideal for professionals, students, or anyone seeking to enhance productivity and minimize time spent on distractions, ultimately leading to more intentional and effective use of web resources.
 
+**OUTPUT**    :
+

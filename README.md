@@ -30,3 +30,4 @@ In summary, the Chrome Extension for Time Tracking and Productivity Analytics is
 
 **OUTPUT**    :
 
+![Image](https://github.com/user-attachments/assets/0ca9ade3-e1b8-4dc4-b356-9907944d5944)
